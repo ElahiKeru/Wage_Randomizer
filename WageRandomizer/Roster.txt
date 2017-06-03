@@ -1,0 +1,17 @@
+﻿Anders,0,6,4,0
+Gubbur,0,0,4,0
+TestPlat,10,0,0,0
+TestGold,0,10,0,0
+TestSilver,0,0,10,0
+TestCopper,0,0,0,10
+TestSC,0,0,10,10
+TestGC,0,10,0,10
+TestGS,0,10,10,0
+TestGSC,0,10,10,10
+TestPC,10,0,0,10
+TestPS,10,0,10,0
+TestPSC,10,0,10,10
+TestPG,10,10,0,0
+TestPGC,10,10,0,10
+TestPGS,10,10,10,0
+TestPGSC,10,10,10,10
