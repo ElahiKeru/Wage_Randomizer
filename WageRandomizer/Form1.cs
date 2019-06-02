@@ -44,6 +44,10 @@ namespace WageRandomizer
             int weekGold = 0;
             int weekSilv = 0;
             int weekCopr = 0;
+            platTotal = 0;
+            goldTotal = 0;
+            silverTotal = 0;
+            copperTotal = 0;
 
             FileInfo fi = new FileInfo(receiptFileName);
             if(!fi.Directory.Exists)
